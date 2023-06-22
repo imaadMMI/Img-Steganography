@@ -1,2 +1,5 @@
-# Img-Steganography
-A steganography program that encodes and decodes secret messages in bitmap images
+# F28HS Coursework 1
+
+This is the template project for F28HS Coursework 1: Image Steganography
+in C. For details of the coursework, see the coursework specification on
+Canvas.
